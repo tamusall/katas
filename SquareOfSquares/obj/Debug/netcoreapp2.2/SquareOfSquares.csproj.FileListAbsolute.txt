@@ -1,0 +1,11 @@
+C:\dev\katas\SquareOfSquares\obj\Debug\netcoreapp2.2\SquareOfSquares.csprojAssemblyReference.cache
+C:\dev\katas\SquareOfSquares\obj\Debug\netcoreapp2.2\SquareOfSquares.csproj.CoreCompileInputs.cache
+C:\dev\katas\SquareOfSquares\obj\Debug\netcoreapp2.2\SquareOfSquares.AssemblyInfoInputs.cache
+C:\dev\katas\SquareOfSquares\obj\Debug\netcoreapp2.2\SquareOfSquares.AssemblyInfo.cs
+C:\dev\katas\SquareOfSquares\bin\Debug\netcoreapp2.2\SquareOfSquares.deps.json
+C:\dev\katas\SquareOfSquares\bin\Debug\netcoreapp2.2\SquareOfSquares.runtimeconfig.json
+C:\dev\katas\SquareOfSquares\bin\Debug\netcoreapp2.2\SquareOfSquares.runtimeconfig.dev.json
+C:\dev\katas\SquareOfSquares\bin\Debug\netcoreapp2.2\SquareOfSquares.dll
+C:\dev\katas\SquareOfSquares\bin\Debug\netcoreapp2.2\SquareOfSquares.pdb
+C:\dev\katas\SquareOfSquares\obj\Debug\netcoreapp2.2\SquareOfSquares.dll
+C:\dev\katas\SquareOfSquares\obj\Debug\netcoreapp2.2\SquareOfSquares.pdb

@@ -1,0 +1,11 @@
+C:\dev\katas\FindTheOddInt\bin\Debug\netcoreapp2.2\FindTheOddInt.deps.json
+C:\dev\katas\FindTheOddInt\bin\Debug\netcoreapp2.2\FindTheOddInt.runtimeconfig.json
+C:\dev\katas\FindTheOddInt\bin\Debug\netcoreapp2.2\FindTheOddInt.runtimeconfig.dev.json
+C:\dev\katas\FindTheOddInt\bin\Debug\netcoreapp2.2\FindTheOddInt.dll
+C:\dev\katas\FindTheOddInt\bin\Debug\netcoreapp2.2\FindTheOddInt.pdb
+C:\dev\katas\FindTheOddInt\obj\Debug\netcoreapp2.2\FindTheOddInt.csprojAssemblyReference.cache
+C:\dev\katas\FindTheOddInt\obj\Debug\netcoreapp2.2\FindTheOddInt.csproj.CoreCompileInputs.cache
+C:\dev\katas\FindTheOddInt\obj\Debug\netcoreapp2.2\FindTheOddInt.AssemblyInfoInputs.cache
+C:\dev\katas\FindTheOddInt\obj\Debug\netcoreapp2.2\FindTheOddInt.AssemblyInfo.cs
+C:\dev\katas\FindTheOddInt\obj\Debug\netcoreapp2.2\FindTheOddInt.dll
+C:\dev\katas\FindTheOddInt\obj\Debug\netcoreapp2.2\FindTheOddInt.pdb
