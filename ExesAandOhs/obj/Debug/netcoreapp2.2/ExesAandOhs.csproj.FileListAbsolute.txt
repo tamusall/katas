@@ -1,0 +1,11 @@
+C:\dev\katas\ExesAandOhs\obj\Debug\netcoreapp2.2\ExesAandOhs.csprojAssemblyReference.cache
+C:\dev\katas\ExesAandOhs\obj\Debug\netcoreapp2.2\ExesAandOhs.csproj.CoreCompileInputs.cache
+C:\dev\katas\ExesAandOhs\obj\Debug\netcoreapp2.2\ExesAandOhs.AssemblyInfoInputs.cache
+C:\dev\katas\ExesAandOhs\obj\Debug\netcoreapp2.2\ExesAandOhs.AssemblyInfo.cs
+C:\dev\katas\ExesAandOhs\bin\Debug\netcoreapp2.2\ExesAandOhs.deps.json
+C:\dev\katas\ExesAandOhs\bin\Debug\netcoreapp2.2\ExesAandOhs.runtimeconfig.json
+C:\dev\katas\ExesAandOhs\bin\Debug\netcoreapp2.2\ExesAandOhs.runtimeconfig.dev.json
+C:\dev\katas\ExesAandOhs\bin\Debug\netcoreapp2.2\ExesAandOhs.dll
+C:\dev\katas\ExesAandOhs\bin\Debug\netcoreapp2.2\ExesAandOhs.pdb
+C:\dev\katas\ExesAandOhs\obj\Debug\netcoreapp2.2\ExesAandOhs.dll
+C:\dev\katas\ExesAandOhs\obj\Debug\netcoreapp2.2\ExesAandOhs.pdb
