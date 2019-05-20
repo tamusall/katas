@@ -1,0 +1,11 @@
+C:\dev\katas\Mumbling\bin\Debug\netcoreapp2.2\Mumbling.deps.json
+C:\dev\katas\Mumbling\bin\Debug\netcoreapp2.2\Mumbling.runtimeconfig.json
+C:\dev\katas\Mumbling\bin\Debug\netcoreapp2.2\Mumbling.runtimeconfig.dev.json
+C:\dev\katas\Mumbling\bin\Debug\netcoreapp2.2\Mumbling.dll
+C:\dev\katas\Mumbling\bin\Debug\netcoreapp2.2\Mumbling.pdb
+C:\dev\katas\Mumbling\obj\Debug\netcoreapp2.2\Mumbling.csprojAssemblyReference.cache
+C:\dev\katas\Mumbling\obj\Debug\netcoreapp2.2\Mumbling.csproj.CoreCompileInputs.cache
+C:\dev\katas\Mumbling\obj\Debug\netcoreapp2.2\Mumbling.AssemblyInfoInputs.cache
+C:\dev\katas\Mumbling\obj\Debug\netcoreapp2.2\Mumbling.AssemblyInfo.cs
+C:\dev\katas\Mumbling\obj\Debug\netcoreapp2.2\Mumbling.dll
+C:\dev\katas\Mumbling\obj\Debug\netcoreapp2.2\Mumbling.pdb
